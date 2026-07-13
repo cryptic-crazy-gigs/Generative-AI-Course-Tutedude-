@@ -1,4 +1,0 @@
-Hello My name is GARVITA Gigras and 
-i am learning standard libraries from Generative AI course
-We are looking over the functionality of shutil library
-
